@@ -26,12 +26,13 @@ npm run prod
 
 ### Versions
 
+-   1.0.1 (latest)
 -   1.0.0
 
 ### Authors
 
--   [Michael K Macharia](https://github.com/michaelkmacharia)
+-   [Michael K Macharia](https://www.github.com/michaelkmacharia)
 
 ### Licenses
 
--   MIT
+-   AGPL Version 3

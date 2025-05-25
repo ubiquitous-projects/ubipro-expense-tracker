@@ -1,12 +1,30 @@
 {
     "name": "ubipro-expense-tracker",
-    "version": "1.0.0",
+    "version": "1.0.1",
+    "description": "A Vue 3 and Composition API based app for tracking expenses",
     "private": true,
     "scripts": {
         "dev": "vite",
         "prev": "vite preview",
-        "prod": "vite build"
+        "prod": "vite build",
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
+    "repository": {
+        "type": "git",
+        "url": "git+https://www.github.com/ubiquitous-projects/ubipro-expense-tracker.git"
+    },
+    "keywords": [
+        "ubipro",
+        "expense",
+        "tracker",
+        "ubipro-expense-tracker"
+    ],
+    "author": "Michael K Macharia",
+    "license": "AGPL Version 3",
+    "bugs": {
+        "url": "https://www.github.com/ubiquitous-projects/ubipro-expense-tracker/issues"
+    },
+    "homepage": "https://www.github.com/ubiquitous-projects/ubipro-expense-tracker#readme",
     "dependencies": {
         "vue": "^3.3.4",
         "vue-toastification": "^2.0.0-rc.5"
