@@ -1,6 +1,6 @@
 # UbiPro Expense Tracker
 
-A Vue 3 and Composition API based app for tracking expenses.
+A Vue 3 and Composition API based app for tracking your expenses.
 
 ## Usage
 
@@ -26,7 +26,8 @@ npm run prod
 
 ### Versions
 
--   1.0.1 (latest)
+-   1.0.2 (latest)
+-   1.0.1
 -   1.0.0
 
 ### Authors

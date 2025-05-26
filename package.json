@@ -1,7 +1,7 @@
 {
     "name": "ubipro-expense-tracker",
-    "version": "1.0.1",
-    "description": "A Vue 3 and Composition API based app for tracking expenses",
+    "version": "1.0.2",
+    "description": "A Vue 3 and Composition API based app for tracking your expenses",
     "private": true,
     "scripts": {
         "dev": "vite",

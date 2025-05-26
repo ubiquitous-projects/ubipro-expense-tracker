@@ -1,5 +1,9 @@
 # CHANGELOG.md
 
+## v1.0.2 - Released on Monday, May 26th, 2025.
+
+-   Updated description of project.
+
 ## v1.0.1 - Released on Sunday, May 25th, 2025.
 
 -   Updated license of project.
