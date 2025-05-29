@@ -26,7 +26,8 @@ npm run prod
 
 ### Versions
 
--   1.0.2 (latest)
+-   1.0.3 (latest)
+-   1.0.2
 -   1.0.1
 -   1.0.0
 
